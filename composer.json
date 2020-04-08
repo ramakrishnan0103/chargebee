@@ -1,12 +1,15 @@
 {
     "name": "synamen-chargebee/chargebee",
+    "keywords": ["yii2","extension","backend","chargebee"],
+    "license": "MIT",
     "authors": [
         {
             "name": "ramakrishnan"
         }
     ],
     "require": {
-        "php": ">=5.6"
+        "php": ">=5.6",
+        "linslin/yii2-curl": "*"
     },
     "require-dev":{
     },
