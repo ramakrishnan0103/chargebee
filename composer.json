@@ -1,0 +1,14 @@
+{
+    "name": "synamen/chargebee",
+    "authors": [
+        {
+            "name": "ramakrishnan"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "chargebee": "src/"
+        }
+    }
+}
